@@ -1,4 +1,4 @@
-# SQLCovidQueries
+# Exploratory Data Analysis with SQL
 
 A SQL data exploration project using the global COVID-19 dataset. The following task completed for this project:
 
